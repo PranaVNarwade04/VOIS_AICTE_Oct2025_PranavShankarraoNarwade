@@ -13,15 +13,17 @@ The dataset used is the "Airbnb Open Data" which contains listing information fo
 ## Analysis Questions
 This analysis aimed to answer the following key questions:
 
-Question 1: What are different types property rooms in dataset?
-Question 2: Which neibourhood group has highest number of listing?
-Question 3: Which neibourhood group has highest average prices for AirBnB listing?
-Question 4: Is there any relationship between construction year of property and price?
-Question 5: Which are 10 hosts by calculated host listing count ?
-Question 6: Are hosts with verified identity have more chance of getting positive reviews?
-Question 7: Is there a correlation between the price of listing and its service fee?
-Question 8: What is the average review rate number for listings, and does it vary based on the neighborhood group and room type?
-Question 9: Are hosts with higher calculated host listing count more likely to maintain higher availability throughout the year ?
+1. **What are the different types of property rooms in the dataset?**  
+2. **Which neighborhood group has the highest number of listings?**  
+3. **Which neighborhood group has the highest average prices for Airbnb listings?**  
+4. **Is there any relationship between the construction year of a property and its price?**  
+5. **Who are the top 10 hosts by calculated host listing count?**  
+6. **Do hosts with verified identity have a higher chance of getting positive reviews?**  
+7. **Is there a correlation between the price of a listing and its service fee?**  
+8. **What is the average review rate number for listings, and does it vary based on the neighborhood group and room type?**  
+9. **Are hosts with higher calculated host listing counts more likely to maintain higher availability throughout the year?**
+
+
 
 ## Tools Used
 - Language: Python
