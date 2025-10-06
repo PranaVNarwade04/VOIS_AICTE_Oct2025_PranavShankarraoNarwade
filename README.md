@@ -34,3 +34,6 @@ This analysis aimed to answer the following key questions:
 - Brooklyn and Manhattan have the highest number of listings.
 - Hotel rooms tend to have the highest average review ratings.
 - There is a strong positive correlation between the price of a listing and its service fee.
+- There is High Demand for Private or Whole Home/apt properties rentings
+- Listing price for all neibourhood group is almost same from-620 to 631 $
+
