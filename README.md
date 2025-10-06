@@ -8,7 +8,7 @@ This project is an exploratory data analysis (EDA) of Airbnb listings in New Yor
 ## Dataset
 The dataset used is the "Airbnb Open Data" which contains listing information for NYC.
 - Source: VOIS for Tech website
-- Files: 1730285881-Airbnb_Open_Data.csv (original).
+- Files: 1730285881-Airbnb_Open_Data.csv (original) and Airbnb_cleaned_data.csv (Cleaned)
 
 ## Analysis Questions
 This analysis aimed to answer the following key questions:
